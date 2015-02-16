@@ -11,7 +11,7 @@ Pequeños scripts que hago en Javascript
 
 		-Ve a la pestaña "promociones"
 
-		-Abre la consola (Mac cmd+i) (Windows ctrl+i)
+		-Abre la consola (Mac Command - Option - J) (Windows Control -Shift -J)
 
 		-Pega el código y dale enter
 
